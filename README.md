@@ -1,0 +1,2 @@
+# synapse-x
+free yall
